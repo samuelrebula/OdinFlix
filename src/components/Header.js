@@ -6,12 +6,12 @@ export default ({black}) => {
         <header className={black ? 'black' : ''}>
             <div className="header--logo">
                 <a href="/">
-                    <img src="https://see.fontimg.com/api/renderfont4/2Kge/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjRTJFMkUyIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/b2RpbmZsaXg/norse-bold.png" />
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png" />
                 </a>
             </div>
             <div className="header--user">
                 <a href="/">
-                    <img src="https://avatars.githubusercontent.com/u/4441966?s=280&v=4" alt="Usuário" />
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png?20201013161117" alt="Usuário" />
                 </a>
             </div>
         </header>
